@@ -1,0 +1,11 @@
+<config>
+
+	<!-- Slightly increases the amount of feathers and eggs found in nests -->
+	<remove xpath="/traders/trader_item_groups/trader_item_group/item[@name='gunMR10']" />
+	<remove xpath="/traders/trader_item_groups/trader_item_group/item[@name='gunAK47']" />
+	<remove xpath="/traders/trader_item_groups/trader_item_group/item[@name='gunM60']" />
+	<remove xpath="/traders/trader_item_groups/trader_item_group/item[@name='gunRocketLauncher']" />
+	<remove xpath="/traders/trader_item_groups/trader_item_group/item[@name='gunSMG5']" />
+	<remove xpath="/traders/trader_item_groups/trader_item_group/item[@name='gunPumpShotgun']" />
+
+</config>

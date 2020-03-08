@@ -1,0 +1,12 @@
+<config>
+
+	<!-- Slightly increases the amount of feathers and eggs found in nests -->
+	<remove xpath="/lootcontainers/lootgroup/item[@name='gunMR10']" />
+	<remove xpath="/lootcontainers/lootgroup/item[@name='gunAK47']" />
+	<remove xpath="/lootcontainers/lootgroup/item[@name='gunTacticalAR']" />
+	<remove xpath="/lootcontainers/lootgroup/item[@name='gunM60']" />
+	<remove xpath="/lootcontainers/lootgroup/item[@name='gunRocketLauncher']" />
+	<remove xpath="/lootcontainers/lootgroup/item[@name='gunSMG5']" />
+	<remove xpath="/lootcontainers/lootgroup/item[@name='gunPumpShotgun']" />
+
+</config>

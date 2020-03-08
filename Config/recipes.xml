@@ -1,0 +1,11 @@
+<config>
+
+	<!-- Slightly increases the amount of feathers and eggs found in nests -->
+	<remove xpath="/recipes/recipe[@name='gunMR10']" />
+	<remove xpath="/recipes/recipe[@name='gunAK47']" />
+	<remove xpath="/recipes/recipe[@name='gunM60']" />
+	<remove xpath="/recipes/recipe[@name='gunRocketLauncher']" />
+	<remove xpath="/recipes/recipe[@name='gunSMG5']" />
+	<remove xpath="/recipes/recipe[@name='gunPumpShotgun']" />
+
+</config>

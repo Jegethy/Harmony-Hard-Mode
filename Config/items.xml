@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configs>
+
+	<remove xpath="/items/item[@name='gunMR10']"/>
+	<remove xpath="/items/item[@name='gunAK47']"/>
+	<remove xpath="/items/item[@name='gunTacticalAR']"/>
+	<remove xpath="/items/item[@name='gunM60']"/>
+	<remove xpath="/items/item[@name='gunRocketLauncher']"/>
+	<remove xpath="/items/item[@name='gunSMG5']"/>
+	<remove xpath="/items/item[@name='gunPumpShotgun']"/>
+
+</configs>

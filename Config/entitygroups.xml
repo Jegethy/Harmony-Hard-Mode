@@ -1,0 +1,28 @@
+<Config>
+
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieBoe']/@name">zombieBoeFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieJoe']/@name">zombieJoeFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieSteve']/@name">zombieSteveFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieMoe']/@name">zombieMoeFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieYo']/@name">zombieYoFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieBusinessMan']/@name">zombieBusinessManFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieArlene']/@name">zombieArleneFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieDarlene']/@name">zombieDarleneFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieMarlene']/@name">zombieMarleneFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieSkateboarder']/@name">zombieSkateboarderFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieCheerleader']/@name">zombieCheerleaderFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieOldTimer']/@name">zombieOldTimerFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieBiker']/@name">zombieBikerFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieFarmer']/@name">zombieFarmerFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieStripper']/@name">zombieStripperFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieUtilityWorker']/@name">zombieUtilityWorkerFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieNurse']/@name">zombieNurseFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieFatHawaiian']/@name">zombieFatHawaiianFeral</set>
+	<set xpath="/entitygroups/entitygroup/entity[@name='zombieSpider']/@name">zombieSpiderFeral</set>
+	
+	<set xpath="/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'zombieSteveCrawler')]/@name">zombieBusinessManFeral</set>
+	<set xpath="/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'animalChicken')]/@name">animalZombieDog</set>
+	<set xpath="/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'animalWolf')]/@name">animalDireWolf</set>
+	<set xpath="/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'animalBoar')]/@name">animalBossGrace</set>
+
+</Config>

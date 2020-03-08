@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Harmony Hard Mode" />
+		<Description value="A companion mod for Jegethy's Harmony Mod. Not designed to be used by itself!" />
+		<Author value="Jegethy" />
+		<Version value="0.1.0" />
+	</ModInfo>
+</xml>
